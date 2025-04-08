@@ -1,11 +1,4 @@
 # NEXTJS-DASHBOARD
 study nextjs
-hello
+# https://nextjs.org/learn/dashboard-app/getting-started
 
-
-# hello ưveyone
-
-
-
-
-tell me some thing cool
